@@ -3,7 +3,7 @@
 - Loading data
 Input player ID in the site. Choose version of arcade release and style. Click *Load Player Song Data* to load data from the site.
 
-![cap0](https://user-images.githubusercontent.com/59948939/72526632-d6089c00-38a1-11ea-98a7-223ba2490ccc.PNG
+![cap0](https://user-images.githubusercontent.com/59948939/72526632-d6089c00-38a1-11ea-98a7-223ba2490ccc.PNG)
 If cache file of specified data is found, a pop-up will be shown to ask if reloading is desired.
 
 ![cap1](https://user-images.githubusercontent.com/59948939/72526634-d6089c00-38a1-11ea-9fe1-346a118e1dd2.PNG)
